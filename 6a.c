@@ -1,3 +1,4 @@
+//binarysearch
 #include<stdio.h>
 int binarysearch(int arr[],int low,int high,int key);
 

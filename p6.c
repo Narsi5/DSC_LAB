@@ -1,3 +1,4 @@
+//towerofhanoi
 #include<stdio.h>
 
 void toh(int n,char source,char spare,char destination);
